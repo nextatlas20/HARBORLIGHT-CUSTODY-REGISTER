@@ -1,0 +1,5 @@
+container_id	collection	expected_celsius	winning_scan	scanned_at	measured_celsius	delta_celsius	disposition
+BX-24	Coral microbiome	2.5	SC-106	2106-06-14T07:20:00Z	2.6	+0.1	CLEAR
+BX-11	Kelp DNA	4.0	SC-104	2106-06-14T08:00:00Z	5.3	+1.3	ALERT
+BX-42	Plankton archive	4.5	SC-109	2106-06-14T07:45:00Z	4.5	+0.0	CLEAR
+BX-37	Seagrass RNA	-20.0					MISSING

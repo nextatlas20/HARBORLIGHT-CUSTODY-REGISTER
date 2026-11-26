@@ -1,0 +1,1 @@
+Only validated arrival scans may determine a container custody disposition.

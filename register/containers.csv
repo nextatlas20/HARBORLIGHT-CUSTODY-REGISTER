@@ -1,0 +1,5 @@
+container_id,collection,priority_rank,expected_celsius
+BX-11,Kelp DNA,2,4.0
+BX-24,Coral microbiome,1,2.5
+BX-37,Seagrass RNA,4,-20.0
+BX-42,Plankton archive,3,4.5
